@@ -55,13 +55,13 @@ Overload processing: Task queue mechanism, the number of schedulable tasks on a 
 
 ### Document
 
-- <a href="https://analysys.github.io/easyscheduler_docs_cn/后端部署文档.html" target="_blank">Backend deployment documentation</a>
+- <a href="https://analysys.github.io/easyscheduler_docs/backend-deployment.html" target="_blank">Backend deployment documentation</a>
 
-- <a href="https://analysys.github.io/easyscheduler_docs_cn/前端部署文档.html" target="_blank">Front-end deployment documentation</a>
+- <a href="https://analysys.github.io/easyscheduler_docs/frontend-deployment.html" target="_blank">Front-end deployment documentation</a>
 
-- [**User manual**](https://analysys.github.io/easyscheduler_docs/System manual.html?_blank "User manual") 
+- [**User manual**](https://analysys.github.io/easyscheduler_docs/system-manual.html?_blank "User manual") 
 
-- [**Upgrade document**](https://analysys.github.io/easyscheduler_docs/Upgrade documentation.html?_blank "Upgrade document") 
+- [**Upgrade document**](https://analysys.github.io/easyscheduler_docs/upgrade.html?_blank "Upgrade document") 
 
 - <a href="http://52.82.13.76:8888" target="_blank">Online Demo</a> 
 
